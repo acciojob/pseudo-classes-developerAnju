@@ -2,14 +2,14 @@
 :root{
 	background-color: rgb(135, 206, 235);
 }
-p:first-child{
+article:first-child{
 	color: #fff;
 	background-color: #000;
 }
-p:nth-child(2){
+article:nth-child(2){
 	color: #000;
 }
-p:last-child{
+article:last-child{
 	color: red;
 }
 ul{
